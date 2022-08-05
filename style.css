@@ -1,0 +1,16 @@
+body{height: 20000px;}
+
+.contenar1{display: grid;
+grid-template-columns: repeat(4,1fr);
+grid-template-rows: repeat(1,200px);
+}
+
+.card-img-top:hover {transition: 2s; width: 110%}
+
+.card-img-top {transition: 2s; width: 100%}
+
+.contenar2{display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-template-rows: repeat(1,200px);
+    }
+    
